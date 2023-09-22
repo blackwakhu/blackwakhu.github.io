@@ -27,15 +27,15 @@
   }
   
   .body-ind{
-    /* background-image: url("/public/images/pexels-luis-gomes-546819.jpg");  */
-    background-image: url("/public/images/michael-dziedzic-qDG7XKJLKbs-unsplash.jpg");
+    /* background-image: url("images/pexels-luis-gomes-546819.jpg");  */
+    background-image: url("images/michael-dziedzic-qDG7XKJLKbs-unsplash.jpg");
   } 
   
   
   
   
   .myabout{
-    background-image: url("/public/images/altumcode-dC6Pb2JdAqs-unsplash.jpg");
+    background-image: url("images/altumcode-dC6Pb2JdAqs-unsplash.jpg");
     color: bisque;
     font-size: 1.2rem;
   }
@@ -45,16 +45,16 @@
   }
   
   .skills-bg{
-    background-image: url("/public/images/arif-riyanto-1DRq1ZsE2N0-unsplash.jpg");
+    background-image: url("images/arif-riyanto-1DRq1ZsE2N0-unsplash.jpg");
     color: blanchedalmond;
     font-size: 1.2rem;
   }
   
   .first-bg{
-    background-image: url("/public/images/altumcode-mCj7UinqOYQ-unsplash.jpg");
+    background-image: url("images/altumcode-mCj7UinqOYQ-unsplash.jpg");
   }
   .second-bg{
-    background-image: url("/public/images/pexels-mikhail-fesenko-9553905.jpg");
+    background-image: url("images/pexels-mikhail-fesenko-9553905.jpg");
   }
   
   .first-bg, .second-bg{
@@ -131,7 +131,7 @@
   }
   
   .myfooter{
-    background-image: url("/public/images/markus-spiske-iar-afB0QQw-unsplash.jpg");
+    background-image: url("images/markus-spiske-iar-afB0QQw-unsplash.jpg");
     background-size: cover;
     padding: 10px;
   }
