@@ -1,6 +1,13 @@
-$(document).ready(function(){
-  $(".skillsbtn").click(function(){
-    $("#skills").slideDown(900);
-    $("#home").hide();
-  })
-})
+$( document ).ready(function() {
+    $("#redElement").click(function(){
+    $(this).css('color', 'red');
+    });
+    
+    $("#blueElement").click(function(){
+      $(this).css('color', 'blue');
+    });
+    
+    $("#greenElement").click(function(){
+      $(this).css('color', 'green');
+    });
+});
