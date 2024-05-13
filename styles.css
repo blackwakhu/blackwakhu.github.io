@@ -61,7 +61,7 @@
     text-decoration: underline;
   }
   
-  .body-content{
+/*   .body-content{
     margin-left: 2rem;
   }
   
@@ -77,14 +77,14 @@
   .body-ind{
     /* background-image: url("images/pexels-luis-gomes-546819.jpg");  */
 /*     background-image: url("images/michael-dziedzic-qDG7XKJLKbs-unsplash.jpg"); */
-  } 
+/*   }  */
   
   
   
   
-  .myabout{
+/*   .myabout{ */
 /*     background-image: url("images/altumcode-dC6Pb2JdAqs-unsplash.jpg"); */
-    color: bisque;
+/*     color: bisque;
     font-size: 1.2rem;
   }
   
@@ -92,24 +92,24 @@
     padding-bottom: 1rem;
   }
   
-  .skills-bg{
+  .skills-bg{ */
 /*     background-image: url("images/arif-riyanto-1DRq1ZsE2N0-unsplash.jpg"); */
-    color: blanchedalmond;
+/*     color: blanchedalmond;
     font-size: 1.2rem;
   }
   
-  .first-bg{
+  .first-bg{ */
 /*     background-image: url("images/altumcode-mCj7UinqOYQ-unsplash.jpg"); */
-  }
-  .second-bg{
+/*   } */
+/*   .second-bg{ */
 /*     background-image: url("images/pexels-mikhail-fesenko-9553905.jpg"); */
-  }
+/*   } */
   
-  .first-bg, .second-bg{
-    color: azure;
-    font-size: 2rem;
-  }
-  
+/*   .first-bg, .second-bg{ */
+/*     color: azure; */
+/*     font-size: 2rem;
+  } */
+/*   
   .body-ind, .myabout, .skills-bg, .first-bg, .second-bg{
     background-size: cover;
     background-position: fixed;
@@ -120,18 +120,18 @@
   .myproject-a{
     color: rgb(0,0,255);
   }
-  
+   */
   #myfooter{
     margin-top: 1rem;
   }
   
-  body {
-    font-family:  Arial, Helvetica, sans-serif;
+ /* body {
+    font-family:  Arial, Helvetica, sans-serif;*/
 /*     background-color: rgba(11, 34, 77, 0.801) ! important; */
-    background: linear-gradienet(360deg, black, beige, white, green, blue) no-repeat;
-  }
+    /*background: linear-gradienet(360deg, black, beige, white, green, blue) no-repeat;
+  }*/
   
-  .mycopy{
+  /*.mycopy{
     font-style: italic;
     color: whitesmoke;
     font-size: 13px;
@@ -184,7 +184,7 @@
     background-size: cover;
     padding: 10px;
   }
-
+ */
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #04AA6D;
