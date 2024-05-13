@@ -5,4 +5,22 @@ $( document ).ready(function() {
       $("#skills").hide();
       $("#projects").hide()
     })
+    $(".homebtn").click(function(){
+      $("#about").hide();
+      $("#home").slideDown(850);
+      $("#skills").hide();
+      $("#projects").hide()
+    })
+    $(".skillsbtn").click(function(){
+      $("#home").hide();
+      $("#skills").slideDown(850);
+      $("#about").hide();
+      $("#projects").hide()
+    })
+    $(".projectbtn").click(function(){
+      $("#home").hide();
+      $("#projects").slideDown(850);
+      $("#skills").hide();
+      $("#about").hide()
+    })
 });
