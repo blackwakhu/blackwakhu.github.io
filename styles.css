@@ -60,6 +60,10 @@
   a:hover{
     text-decoration: underline;
   }
+
+body{
+  background: linear-gradient(360deg, black, beige, white, green, blue) no-repeat;
+}
   
 /*   .body-content{
     margin-left: 2rem;
