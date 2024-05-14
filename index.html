@@ -28,6 +28,24 @@
       border: outset;
       margin: 5px;
     }
+    .card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  border-radius: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+.container-skills {
+  padding: 2px 16px;
+}
   </style>
 </head>
 <body>
@@ -126,6 +144,14 @@
        <div id="skills" hidden>
         <div class="skills-bg">
           <div class="body-content">
+            <div class="card">
+              <img src="img_avatar2.png" alt="Avatar" style="width:100%">
+              <div class="container-skills">
+                <h4><b>Jane Doe</b></h4> 
+                <p>Interior Designer</p> 
+              </div>
+            </div>
+            
             <div hidden>
               <table>
                 <tr>
