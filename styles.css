@@ -88,6 +88,10 @@ body{
 
 #entry{
   font-size: 19px;
+  text-align: left;
+  color: rgb(80, 200, 120);
+  font-size: 2rem;
+  font-family:  Courier, "Lucida Console", "Courier New", monospace;
 }
 /*  
   .innerind{
