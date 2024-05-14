@@ -25,5 +25,10 @@ $( document ).ready(function() {
     })
     $("#project-portfolio-btn").click(function(){
         $("#project-portfolio-data").slideToggle();
+        if($("#project-portfolio-data").is(":hidden")){
+            
+        }else{
+            $("#project-portfolio-data").css("background-color", "yellow");
+        }
     })
 });
