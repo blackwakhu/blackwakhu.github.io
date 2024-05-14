@@ -82,10 +82,10 @@ body{
   margin-top: 60px;
 }
   
-/*   .body-content{
-    margin-left: 2rem;
-  }
-*/  
+.body-content{
+  margin-left: 2rem;
+}
+
 #entry{
   font-size: 19px;
 }
