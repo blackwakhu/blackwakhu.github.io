@@ -175,3 +175,9 @@ body{
   background-color: #04AA6D;
   color: white;
 }
+
+.skills-row{
+  border: outset;
+  margin: 5px;
+}
+
