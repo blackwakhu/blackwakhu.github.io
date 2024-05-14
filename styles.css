@@ -56,19 +56,19 @@
 }
 
 .social-images {
-    border: 0px;
-    height: 4rem;
-    width: 6rem;
-    padding: 2px;
-  }
+  border: 0px;
+  height: 4rem;
+  width: 6rem;
+  padding: 2px;
+}
   
-  a{
-    text-decoration: none;
-  }
+a{
+  text-decoration: none;
+}
   
-  a:hover{
-    text-decoration: underline;
-  }
+a:hover{
+  text-decoration: underline;
+}
 
 body{
   background: linear-gradient(45deg, black, beige, green, blue) no-repeat;
@@ -137,9 +137,9 @@ body{
     color: rgb(0,0,255);
   }
    */
-  #myfooter{
-    margin-top: 1rem;
-  }
+#myfooter{
+  margin-top: 1rem;
+}
   
   /*.mycopy{
     font-style: italic;
@@ -170,9 +170,9 @@ body{
   font-size: 1.2rem;
 }
 
-  .myname, #name{
-    text-transform: capitalize;
-  }
+.myname, #name{
+  text-transform: capitalize;
+}
   /*
   #menu{
     border-bottom: 0.5px solid;
@@ -182,12 +182,11 @@ body{
     text-decoration-color: black;  
   }
   
-  .myfooter{
-    background-image: url("images/markus-spiske-iar-afB0QQw-unsplash.jpg");
-    background-size: cover;
-    padding: 10px;
-  }
  */
+.myfooter{
+  background-size: cover;
+  padding: 10px;
+}
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #04AA6D;
