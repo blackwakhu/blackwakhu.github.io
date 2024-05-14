@@ -174,7 +174,7 @@ body{
   .myname, #name{
     text-transform: capitalize;
   }
-  
+  /*
   #entry{
     text-align: left;
     color: rgb(80, 200, 120);
