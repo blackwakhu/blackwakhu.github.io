@@ -40,7 +40,6 @@ $( document ).ready(function() {
           $("#project-phonebook-data").css("background-color", "rgba(228, 208, 10, .5)");
           $("#project-phonebook-btn").css("background-color", "background-color: rgba(0, 255, 0, .5)");
         }
-      })
     })
     $("#project-blackjack-btn").click(function(){
         $("#project-blackjack-data").slideToggle();
@@ -50,7 +49,6 @@ $( document ).ready(function() {
           $("#project-blackjack-data").css("background-color", "rgba(228, 208, 10, .5)");
           $("#project-blackjack-btn").css("background-color", "background-color: rgba(0, 255, 0, .5)");
         }
-      })
     })
     $("#project-cunit-btn").click(function(){
         $("#project-cunit-data").slideToggle();
@@ -60,7 +58,6 @@ $( document ).ready(function() {
           $("#project-cunit-data").css("background-color", "rgba(228, 208, 10, .5)");
           $("#project-cunit-btn").css("background-color", "background-color: rgba(0, 255, 0, .5)");
         }
-      })
     })
     $("#project-dictionary-btn").click(function(){
         $("#project-dictionary-data").slideToggle();
@@ -70,7 +67,6 @@ $( document ).ready(function() {
           $("#project-dictionary-data").css("background-color", "rgba(228, 208, 10, .5)");
           $("#project-dictionary-btn").css("background-color", "background-color: rgba(0, 255, 0, .5)");
         }
-      })
     })
     $("#project-student-btn").click(function(){
         $("#project-student-data").slideToggle();
@@ -80,7 +76,6 @@ $( document ).ready(function() {
           $("#project-student-data").css("background-color", "rgba(228, 208, 10, .5)");
           $("#project-student-btn").css("background-color", "background-color: rgba(0, 255, 0, .5)");
         }
-      })
     })
     $("#project-calculator-btn").click(function(){
         $("#project-calculator-data").slideToggle();
@@ -90,7 +85,6 @@ $( document ).ready(function() {
           $("#project-calculator-data").css("background-color", "rgba(228, 208, 10, .5)");
           $("#project-calculator-btn").css("background-color", "background-color: rgba(0, 255, 0, .5)");
         }
-      })
     })
     $("#project-library-btn").click(function(){
         $("#project-library-data").slideToggle();
@@ -100,7 +94,6 @@ $( document ).ready(function() {
           $("#project-library-data").css("background-color", "rgba(228, 208, 10, .5)");
           $("#project-library-btn").css("background-color", "background-color: rgba(0, 255, 0, .5)");
         }
-      })
     })
       $("#project-dscience-btn").click(function(){
         $("#project-dscience-data").slideToggle();
