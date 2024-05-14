@@ -98,17 +98,16 @@ body{
   color: blue;    
 }
   
-/*   .myabout{ */
-/*     background-image: url("images/altumcode-dC6Pb2JdAqs-unsplash.jpg"); */
-/*     color: bisque;
-    font-size: 1.2rem;
-  }
+.myabout{
+  color: bisque;
+  font-size: 1.2rem;
+}
+ 
+.about-bg{
+  padding-bottom: 1rem;
+}
   
-  .about-bg{
-    padding-bottom: 1rem;
-  }
-  
-  .skills-bg{ */
+/*  .skills-bg{ */
 /*     background-image: url("images/arif-riyanto-1DRq1ZsE2N0-unsplash.jpg"); */
 /*     color: blanchedalmond;
     font-size: 1.2rem;
