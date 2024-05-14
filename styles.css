@@ -199,3 +199,8 @@ img {
 .container-skills {
   padding: 2px 16px;
 }
+
+#table-skills{
+  width: 100%;
+  display: flex;
+}
