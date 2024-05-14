@@ -177,8 +177,8 @@ body{
 }
 
 .skills-row{
-  border: outset;
-  margin: 5px;
+/*   border: outset; */
+  margin: 10px;
 }
 
 .card {
