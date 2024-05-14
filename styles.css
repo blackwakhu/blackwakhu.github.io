@@ -78,7 +78,7 @@ body{
 .data-port-content{
   width: 100%;
   height: 100%;
-  min-height: 740px;
+  min-height: 600px;
   margin-top: 60px;
 }
   
@@ -113,7 +113,7 @@ body{
 }
   
 .first-bg, .second-bg{ 
-  color: azure; */
+  color: azure; 
   font-size: 2rem;
 }
   
@@ -164,16 +164,7 @@ body{
 .myname, #name{
   text-transform: capitalize;
 }
-  /*
-  #menu{
-    border-bottom: 0.5px solid;
-  }
-  
-  .nav-link{
-    text-decoration-color: black;  
-  }
-  
- */
+
 .myfooter{
   background-size: cover;
   padding: 10px;
