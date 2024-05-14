@@ -107,13 +107,12 @@ body{
   padding-bottom: 1rem;
 }
   
-/*  .skills-bg{ */
-/*     background-image: url("images/arif-riyanto-1DRq1ZsE2N0-unsplash.jpg"); */
-/*     color: blanchedalmond;
-    font-size: 1.2rem;
-  }
+.skills-bg{
+  color: blanchedalmond;
+  font-size: 1.2rem;
+}
   
-  .first-bg{ */
+  /*.first-bg{ */
 /*     background-image: url("images/altumcode-mCj7UinqOYQ-unsplash.jpg"); */
 /*   } */
 /*   .second-bg{ */
