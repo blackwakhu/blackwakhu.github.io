@@ -23,4 +23,7 @@ $( document ).ready(function() {
       $("#skills").hide();
       $("#about").hide()
     })
+    $("#project-portfolio-btn").click(function(){
+        $("#project-portfolio-data").slideToggle();
+    })
 });
