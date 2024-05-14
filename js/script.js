@@ -26,9 +26,10 @@ $( document ).ready(function() {
     $("#project-portfolio-btn").click(function(){
         $("#project-portfolio-data").slideToggle();
         if($("#project-portfolio-data").is(":hidden")){
-            
+          $("#project-portfolio-btn").css("background-color", "background-color: rgba(100, 149, 237, .5)");
         }else{
-            $("#project-portfolio-data").css("background-color", "yellow");
+          $("#project-portfolio-data").css("background-color", "rgba(228, 208, 10, .5)");
+          $("#project-portfolio-btn").css("background-color", "background-color: rgba(0, 255, 0, .5)");
         }
     })
 });
