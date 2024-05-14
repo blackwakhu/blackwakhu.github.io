@@ -159,6 +159,7 @@ body{
 .restind{
   color: beige;
   font-size: 1.2rem;
+  width: 60%;
 }
 
 .myname, #name{
