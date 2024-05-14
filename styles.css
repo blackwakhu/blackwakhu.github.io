@@ -93,11 +93,10 @@ body{
   font-size: 2rem;
   font-family:  Courier, "Lucida Console", "Courier New", monospace;
 }
-/*  
-  .innerind{
-    color: blue;
-    
-  }
+
+.innerind{
+  color: blue;    
+}
   
 /*   .myabout{ */
 /*     background-image: url("images/altumcode-dC6Pb2JdAqs-unsplash.jpg"); */
